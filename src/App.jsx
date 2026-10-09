@@ -10,6 +10,8 @@ import {
 import ProjectDetails from "./pages/ProjectDetails";
 
 function App() {
+  /* Radha Konapte Portfolio */
+  
   const [openSkill, setOpenSkill] = useState(null);
   return (
     <div className="portfolio">
